@@ -1,0 +1,19 @@
+---
+title: "Nmap Remote Server Scan"
+date: 2025-05-06
+categories: [Portfolio, Scanning]
+tags: [nmap, tcp, scanning, portfolio, project]
+description: Deep Nmap scanning on a remote server to discover open ports and services.
+toc: false
+comments: false
+media_subpath: /assets/img/
+---
+
+![Nmap Scan Result](/assets/img/placeholder-nmap.png){: w="700" h="400" }
+_Basic Nmap port scan on remote IP_
+
+Used `nmap -sV [IP]` to scan for open ports and running services. Discovered standard ports like 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+This type of scan helps detect open services, potentially misconfigured servers, and opportunities for deeper analysis.
+
+**Use Case:** This is essential for reconnaissance during vulnerability assessments or penetration testing, especially to map a network surface before deeper probing.
