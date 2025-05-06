@@ -3,12 +3,12 @@ title: "On Psychology, Tech, and AI?"
 date: 2025-05-05
 categories: [Psychology, AI]
 tags: [blog]
-description: A short reflection on how technological change is shaping the impact on our psychology and AI playing into it.
+description: A short reflection on how technological change is shaping the impact on our psychology.
 toc: false
 comments: false
 ---
 
-# Start Article
+# /thoughts/
 
 We’re living in a strange new moment. Technology is no longer simply a tool we control, it’s something we negotiate with, something that quietly shapes the contours of daily life. Its presence is ambient, always on, always learning.
 
