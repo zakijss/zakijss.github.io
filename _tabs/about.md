@@ -11,4 +11,4 @@ media_subpath: assets/img/CoatOfArms.png
 
 ## Connect with me on [LinkedIn.](https://www.linkedin.com/in/zjss/)
 
-![Desktop View](assets/img/CoatOfArms.png){: .normal }{: .shadow }
+![Desktop View](assets/img/CoatOfArms.png){: .normal }{: .shadow }{: w="512" h="512" }
