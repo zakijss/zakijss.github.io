@@ -1,6 +1,6 @@
 ---
 title: "On Psychology, Tech, and AI?"
-date: 2025-05-05 22:15:00 -0500
+date: 2025-05-05
 categories: [Psychology, AI]
 tags: [blog]
 description: A short reflection on how technological change is shaping the impact on our psychology and AI playing into it.
