@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Who I Am
+
+**I am a business and psychology major with extensive hands-on experience (still learning!) certified (Sec+) in cybersecurity. Passionate about digital security, threat analysis, and using human insight to solve technical problems. Currently open to roles in IT security or support.**
+
+## Connect with me on [LinkedIn.](https://www.linkedin.com/in/zjss/)
