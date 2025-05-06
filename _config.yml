@@ -29,20 +29,20 @@ github:
   username: zakijss # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+ # username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Zaki S
-  email: example@domain.com # change to your email address
+  email: zaki.jss@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/zakijss # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://lh7-rt.googleusercontent.com/sitesz/AClOY7rm4XEXOGosrItjCW5lX8Ug2CweATOHa7EzEmrBws7Hu-lZaONteY6sOqgWFTmECu-wBXyH5ChBiX12APrN0B8D_Q7L_f3nNY95h9DtxTicCIAw-wo3E7FiYArY-Jyyptm85VrSiIN0WR1tU8BOu3Gwa-2bFzSh6ChVnIXXF6-iQdHk1cRH?key=7GIr8sBCj2IxYJVOQz_01A
+avatar: https://lh6.googleusercontent.com/JITPFFALQgjtlyqt-T_7L13ksBIaYPNMq5gmnBWrAwcTdNK_H1TMkYwkUoj23A64a6dEV8OsN0wmQyovc0YJnFnR64va_3ZKICi89OMm4mIUf8CD0H4haAjVv9C-H6uoGw=w1280
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
