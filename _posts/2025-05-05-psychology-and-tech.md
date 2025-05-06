@@ -6,6 +6,7 @@ tags: [blog, psychology, ai, thoughts]
 description: A short reflection on how technological change is shaping the impact on our psychology.
 toc: false
 comments: false
+media_subpath: assets/img/mountains.png
 ---
 
 # / thoughts /
@@ -21,4 +22,7 @@ These aren’t just purely philosophical in nature. They are urgent, almost crit
 We must think it through, we're not just witnessing change, we’re experiencing it from the inside out, every passing year; the impact is more evident.
 
 Let’s try to make sense of it.
+
+![Desktop View](assets/img/mountains.png){: .normal }{: .shadow }
+
 
