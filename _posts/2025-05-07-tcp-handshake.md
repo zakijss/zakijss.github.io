@@ -9,7 +9,7 @@ comments: false
 media_subpath: /assets/img/
 ---
 
-![Wireshark TCP Handshake](/assets/img/Wireshark-SYN.png){: w="700" h="400" }
+![Wireshark TCP Handshake](Wireshark-SYN.png){: w="700" h="400" }
 _A captured SYN → SYN-ACK → ACK sequence completing a TCP connection._
 
 As part of a demonstration in network analysis, I captured a TCP three-way handshake using Wireshark. This is the process by which two devices establish a reliable connection over TCP.
