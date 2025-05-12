@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter: 
-    id: zakijss # fill in your GoatCounter ID
+    id:  # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews: 
-  provider: goatcounter # now only supports 'goatcounter'
+  provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1919598491136925696/MpVcF3sO_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1920239267680321536/LJAFZ12u_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
