@@ -43,7 +43,7 @@ Navigated to **Inbound Rules**, sorted by port. I found:
 #### 3. Created a Custom Inbound Block Rule
 
 
-![Firewall Rule - Block Port 445](firewall-properties.png){: w="700" h="400" }
+![Firewall Properties - Block Port 445](firewall-properties.png){: w="700" h="400" }
 _Custom rule blocking inbound SMB traffic (port 445) properties assessed correctly._
 
 - **Rule Type**: Port  
@@ -63,5 +63,5 @@ To validate the firewall was working:
 
 - I attempted to access the host via nmap and other tools.
 
-![Firewall Rule - Block Port 445](firewall-confirmed.png){: w="700" h="400" }
+![Firewall Confirmation - Block Port 445](firewall-confirmed.png){: w="700" h="400" }
 _Custom rule blocking inbound SMB traffic (port 445) confirmed._
