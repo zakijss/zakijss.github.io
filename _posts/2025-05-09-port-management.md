@@ -1,6 +1,6 @@
 ---
 title: "Blocking SMB Traffic via Windows Firewall: Reducing Lateral Movement Risk"
-date: 2025-05-08
+date: 2025-05-09
 categories: [Portfolio, Host Security]
 tags: [firewall, security+, smb, architecture, port-control, project]
 description: Analyzing default firewall exposure and implementing host-based rules to block unnecessary and risky services like SMB.
