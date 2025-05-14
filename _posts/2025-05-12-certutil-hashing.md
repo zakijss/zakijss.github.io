@@ -12,7 +12,7 @@ media_subpath: /assets/img/
 ![CertUtil Hash Algorithm](hash-verified.png){: w="700" h="400" }
 _Initial SHA256 hash generation using CertUtil._
 
-To demonstrate integrity checking using cryptographic hashes, I used **CertUtil** — a built-in Windows utility — to generate and verify SHA256 hashes on local files. This technique is vital in areas like **forensics**, **secure backups**, and **malware detection**, where detecting unauthorized changes is critical.
+To demonstrate integrity checking using cryptographic hashes, I used **CertUtil**, a built-in Windows utility, to generate and verify SHA256 hashes on local files. This technique is vital in areas like **forensics**, **secure backups**, and **malware detection**, where detecting unauthorized changes is critical.
 
 ---
 

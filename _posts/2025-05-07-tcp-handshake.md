@@ -35,7 +35,7 @@ As part of a demonstration in network analysis, I captured a TCP three-way hands
   - The client sends a **SYN** packet to begin the connection.
   - The server replies with a **SYN-ACK**.
   - The client responds with an **ACK**, completing the handshake.
-- No data is exchanged during the handshake itself — it’s strictly for session setup.
+- No data is exchanged during the handshake itself, it’s strictly for session setup.
 - This specific capture was tied to a connection attempt on port 80 (HTTP).
 
 ---
