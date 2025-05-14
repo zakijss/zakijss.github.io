@@ -38,7 +38,7 @@ Via `wf.msc`, I launched **Windows Defender Firewall with Advanced Security**.
 Navigated to **Inbound Rules**, sorted by port. I found:
 
 - **File and Printer Sharing (SMB-In)** enabled by default on Private networks
-- Allowed inbound traffic to **TCP 445**, **UDP 137/138**, all part of SMB/NBNS stack
+- Allowed inbound traffic to **TCP 445**, **UDP 137/138** — all part of SMB/NBNS stack
 
 #### 3. Created a Custom Inbound Block Rule
 
