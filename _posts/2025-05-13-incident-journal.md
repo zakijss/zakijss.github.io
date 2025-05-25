@@ -1,8 +1,8 @@
 ---
-title: "Final Incident Handler’s Journal: A Security Entry"
+title: "Final Incident Handler’s Journal: A List of Security Entries"
 date: 2025-05-13 
 categories: [Portfolio, Journal]
-tags: [incident-response, nist, tools, journaling, blue-team, portfolio, data entry,]
+tags: [incident-response, nist, tools, journaling, blue-team, portfolio, data entry, project,]
 description: This is a comprehensive Incident Handling Journal list of entries, growing with time.
 pin: true
 toc: true
@@ -14,7 +14,7 @@ Throughout my cybersecurity learning experience, I’ve maintained an **Incident
 
 ## Journal Entry 001 – Phishing Investigation
 
-**Date:** 2025-05-14  
+**Date:** 2025-05-13 
 **Entry:** 001  
 **Description:** Investigated and documented a phishing email incident using the 5 W's. This entry falls under the *Detection and Analysis* and *Containment* phases of the NIST IR Lifecycle.  
 **Tool(s) used:** Outlook, VirusTotal  
@@ -33,7 +33,7 @@ VirusTotal flagged the link. Credentials were reset, the domain was blocked, and
 
 ##Journal Entry 002 – Suricata Rule & Malware Detection
 
-**Date:** 2025-05-02  
+**Date:** 2025-05-15
 **Entry:** 002  
 **Description:** Wrote a Suricata rule to identify suspicious outbound traffic. Activity aligns with *Detection and Analysis*.  
 **Tool(s) used:** Suricata, Wireshark  
@@ -52,7 +52,7 @@ Created custom rules to flag behavior. Wireshark confirmed the traffic. Host was
 
 ## Journal Entry 003 – Splunk Query & Dashboarding
 
-**Date:** 2025-04-18  
+**Date:** 2025-05-18 
 **Entry:** 003  
 **Description:** Practiced querying brute-force login attempts in Splunk. This falls under *Detection and Analysis*.  
 **Tool(s) used:** Splunk  
@@ -70,7 +70,7 @@ Splunk made correlation and alerting intuitive. This activity improved my abilit
 
 ## Journal Entry 004 – File Hash Investigation
 
-**Date:** 2025-04-10  
+**Date:** 2025-05-21 
 **Entry:** 004  
 **Description:** Investigated a SHA256 file hash and analyzed sandbox results. Aligns with *Detection and Analysis*.  
 **Tool(s) used:** VirusTotal, Any.run, Hybrid Analysis  
@@ -82,6 +82,24 @@ Splunk made correlation and alerting intuitive. This activity improved my abilit
 
 **Notes:**  
 This investigation showed how tools complement each other. Multi-source validation helped form a clear risk assessment of the file. Learned how to enrich indicators of compromise (IOCs).
+
+---
+
+## Journal Entry 005 – IP Allow List Automation
+
+**Date:** 2025-05-24
+**Entry:** 005
+**Description:** Created a Python script to sanitize an IP allow list by removing unauthorized entries. Aligns with *Preparation* and *Containment*.
+**Tool(s) used:** Python, VS Code
+
+**Tool Usage Summary:**
+
+* Python: read and parsed a text-based allow list
+* Script compared entries against a defined `remove_list`
+* Cleaned list was written back to file, ensuring unauthorized IPs were removed
+
+**Notes:**
+This automation replaced what would typically be a manual and error-prone task. It improved consistency and reduced risk in maintaining network access controls. A useful foundation for future scheduled jobs or integration into SOAR tooling.
 
 ---
 
