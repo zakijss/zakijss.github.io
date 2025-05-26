@@ -1,5 +1,5 @@
 ---
-title: "Final Incident Handler’s Journal: A List of Security Entries"
+title: "Incident Handler’s Journal: A List of Security Entries"
 date: 2025-05-13 
 categories: [Portfolio, Journal]
 tags: [incident-response, nist, tools, journaling, blue-team, portfolio, data entry, project,]
