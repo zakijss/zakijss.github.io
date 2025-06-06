@@ -67,6 +67,3 @@ Command-line arguments used are:
 * Writing clean, extensible Python code for operational security
 
 This tool highlights hands-on cybersecurity and automation skills relevant to log forensics, threat hunting, and system monitoring workflows. It provides a strong foundation for expanding into real-time detection, reporting, or SIEM integration.
-
-```
-
