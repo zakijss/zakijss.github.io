@@ -9,7 +9,7 @@ comments: false
 media_subpath: /assets/img/
 ---
 
-## Description
+## Project Description
 
 As a simulated exercise, i played the role of a cybersecurity specialist, where, at my organization, access to restricted content is controlled using an allow list of IP addresses stored in a file named `allow_list.txt`. A separate list, `remove_list`, contains IPs that should no longer have access to those systems. I created a Python algorithm that automates the process of removing these disallowed IPs from the allow list. This kind of automation reduces the risk of human error and supports stronger access control in sensitive environments like healthcare.
 

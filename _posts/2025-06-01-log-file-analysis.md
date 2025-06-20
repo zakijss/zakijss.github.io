@@ -1,8 +1,8 @@
 ---
 title: "Log File Analyzer for Suspicious Activity Detection"
 date: 2025-06-01 
-categories: [Cybersecurity, Logs]
-tags: [Python, Log Analysis, Threat Detection, Portfolio, Project]
+categories: [Portfolio, Logs]
+tags: [python, log analysis, threat detection, portfolio, project]
 description: A Python script that reads log files, detects suspicious patterns such as failed logins and access violations, and reports potential threats for security analysis.
 layout: post
 ---
