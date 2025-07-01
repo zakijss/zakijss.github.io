@@ -1,6 +1,6 @@
 ---
 title: "Securing My Homelab: Lessons That Scale to the Enterprise World"
-date: 2025-05-14
+date: 2025-06-25
 categories: [Portfolio, Homelab]
 tags: [homelab, linux, security, infrastructure, enterprise, self-hosted]
 description: How securing my personal homelab with Linux tools and self-hosted solutions mirrors enterprise security practices.
