@@ -9,11 +9,14 @@ comments: false
 media_subpath: /assets/img/
 ---
 
+![Closeup Photo](IMG_69331.JPG)
+_Workspace._
+
 Recently, I've been reflecting on how foundational data security is, and not just in daily interactions, but also in providing the confidence and peace of mind necessary to trust the systems we build and daily drive. When it comes to securing something as personal as a homelab, there are practical lessons that directly translate into what enterprises must consider; every day.
 
 In my own homelab, I treat data security as first-class; it consistently takes precedence over convenience. This is about adhering to best practices for me, it also goes into how it reflects the ethic that responsible companies and organizations have to maintain when they manage their infrastructure at scale.
 
-Below is a deeper dive into my personal stack for securing data within my home network, with emphasis on the local tools and self-hosted solutions I rely upon:
+Below is a deeper dive into my personal stack for securing data within my home network, with emphasis on the local tools and self-hosted solutions I rely upon.
 
 ---
 
@@ -74,7 +77,7 @@ In addition, I use **Fail2Ban** and **CrowdSec** to dynamically ban abusive IPs 
 
 ## Why This Matters
 
-The same principles I apply at home, defense in depth, encryption, segmentation, monitoring, and access discipline—are the core pillars of any effective security program. These strategies align directly with frameworks like **ISO 27001**, **HIPAA**, and **NIST 800-53**.
+The same principles I apply at home, defense in depth, encryption, segmentation, monitoring, and access discipline, these are the core pillars of any effective security program. These strategies align directly with frameworks like **ISO 27001**, **HIPAA**, and **NIST 800-53**.
 
 If you can design and secure a Linux-based infrastructure at home with limited resources, you build the foundation for understanding the scale and complexity of enterprise security.
 
