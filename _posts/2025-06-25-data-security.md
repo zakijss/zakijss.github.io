@@ -10,7 +10,7 @@ media_subpath: /assets/img/
 ---
 
 ![Closeup Photo](IMG_69331.JPG)
-_Workspace._
+_My Workspace._
 
 Recently, I've been reflecting on how foundational data security is, and not just in daily interactions, but also in providing the confidence and peace of mind necessary to trust the systems we build and daily drive. When it comes to securing something as personal as a homelab, there are practical lessons that directly translate into what enterprises must consider; every day.
 
@@ -24,7 +24,7 @@ Below is a deeper dive into my personal stack for securing data within my home n
 
 It's 2025, and although home-based firewalls might feel secondary to some, the proliferation of self-hosted applications necessitates proper segmentation. I utilize tools like **pfSense** as a primary firewall alongside **CrowdSec** for intrusion prevention, supplemented by Linux’s built-in firewall, **ufw** (Uncomplicated Firewall).
 
-These tools help segment trusted and untrusted networks, ensuring any compromised services remain isolated. This directly mirrors enterprise-grade Zero Trust architectures—designed to assume breach and contain threats immediately.
+These tools help segment trusted and untrusted networks, ensuring any compromised services remain isolated. This directly mirrors enterprise grade Zero Trust architectures designed to assume breach and contain threats immediately.
 
 ---
 
