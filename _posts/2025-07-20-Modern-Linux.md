@@ -63,7 +63,7 @@ Ultimately, this ubiquity comes with its own risks:
 
 Despite these caveats, open source is still vital. It has its advantages; no vendor lock-in, peer review, and the ability to patch or fork when needed cant be understated. Organizations in general must **treat open source as they would any third-party dependency**. That means maintaining processes, vetting code (via code reviews, security tools, SBOMs), contributing patches upstream, and choosing projects with active communities. In short, being open *with oversight*. The takeaway is that **“open” is a means, not an end**, you  would still need people and processes to make it especially secure.
 
-## / why does this matters? /
+## / why does this matter? /
 
 The trends above are converging in real time. A recent CNCF survey found that 89% of organizations have adopted cloud-native technologies, and nearly 91% now run containers in production or pre-production. Kubernetes itself is ubiquitous though, with 93% of companies use or are evaluating it. Cloud deployment is truly global, with Europe (92%) and the Americas (89%) leading the charge and Asia-Pacific rapidly catching up at 84% adoption. In other words, containerization and orchestration are mainstream worldwide.
 
