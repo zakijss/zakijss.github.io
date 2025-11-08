@@ -3,8 +3,6 @@
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-## Check out my [Portfolio here.](https://zakijss.github.io/)
-## And my [Blog here.](https://sites.google.com/view/zjss/project-page)
 
 License:
 This work is published under [MIT][mit] License.
